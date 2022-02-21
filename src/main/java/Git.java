@@ -6,5 +6,6 @@ public class Git {
         System.out.println("hot-fix");
         System.out.println("master-冲突test");
         System.out.println("冲突test");
+        System.out.println("push");
     }
 }
